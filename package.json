@@ -1,0 +1,21 @@
+{
+    "name": "commandcode-statusline",
+    "version": "1.0.0",
+    "description": "One-line statusline for commandcode: model, context, session cost, cache hit rate, git branch, usage windows and a spending-pace hint.",
+    "type": "module",
+    "main": "index.ts",
+    "license": "MIT",
+    "keywords": [
+        "commandcode",
+        "commandcode-mod",
+        "statusline"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/grknbyk/commandcode-statusline.git"
+    },
+    "bugs": {
+        "url": "https://github.com/grknbyk/commandcode-statusline/issues"
+    },
+    "homepage": "https://github.com/grknbyk/commandcode-statusline#readme"
+}
